@@ -1,5 +1,6 @@
-### Hi there 👋
+# Hi, I'm [@ChandraUpendra22](https://github.com/ChandraUpendra22) 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=ChandraUpendra22&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=12">
 <!--
 **ChandraUpendra22/ChandraUpendra22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📅 Co-Founder of [CtrlCampus](https://ctrlcampus.com)
+- 📧 Engineering at [CtrlCampus](https://ctrlcampus.com)
+- 📍 Hyderabad, Telangana for now, not forever
+- 🎸 Bass
+- 🎣 Bass
 -->
